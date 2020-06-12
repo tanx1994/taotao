@@ -19,8 +19,11 @@
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.2" />
           <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:3.4.2-fix" />
           <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9" />
-          <element id="library" level="project" name="Maven: com.oracle:ojdbc6:11.2.0.3.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.32" />
           <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.9" />
+          <element id="archive" name="taotao-manager-interface-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="taotao-manager-interface" />
+          </element>
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
