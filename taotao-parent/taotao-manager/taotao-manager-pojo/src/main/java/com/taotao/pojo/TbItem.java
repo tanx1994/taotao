@@ -1,8 +1,9 @@
 package com.taotao.pojo;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class TbItem {
+public class TbItem implements Serializable {
     /**
      * 商品id，同时也是商品编号
      * 表字段 : tb_item.id

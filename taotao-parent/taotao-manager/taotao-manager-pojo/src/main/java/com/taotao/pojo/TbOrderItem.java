@@ -1,6 +1,8 @@
 package com.taotao.pojo;
 
-public class TbOrderItem {
+import java.io.Serializable;
+
+public class TbOrderItem implements Serializable {
     /**
      * 
      * 表字段 : tb_order_item.id

@@ -1,8 +1,9 @@
 package com.taotao.pojo;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class TbOrder {
+public class TbOrder implements Serializable {
     /**
      * 订单id
      * 表字段 : tb_order.order_id

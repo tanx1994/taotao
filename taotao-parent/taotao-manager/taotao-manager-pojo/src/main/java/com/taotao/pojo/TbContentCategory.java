@@ -1,8 +1,9 @@
 package com.taotao.pojo;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class TbContentCategory {
+public class TbContentCategory implements Serializable {
     /**
      * 类目ID
      * 表字段 : tb_content_category.id
